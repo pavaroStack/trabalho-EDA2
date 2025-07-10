@@ -1,6 +1,7 @@
-# Estrutura de Dados e Algoritmos 2 2025.1 - Marcelo Moura de Carvalho Santana
+# Universidade Federal da Bahia (UFBA)
 
-Universidade Federal da Bahia (UFBA)
+## Estudante: Marcelo Moura de Carvalho Santana
+
 Instituto de Computação (IC)  
 Departamento de Ciência da Computação (DCC)  
 **MATA 54 - Estrutura de Dados e Algoritmos II – 2025.1 – Prof. George Lima**
