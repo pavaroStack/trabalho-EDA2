@@ -50,7 +50,7 @@ class MinHeap:
         
         if smallest != index:
             self._swap(index, smallest)
-            self._sift_down(smallest)
+            self._shift_down(smallest)
     
     def _swap(self, i, j):
         self.heap[i], self.heap[j] = self.heap[j], self.heap[i]
